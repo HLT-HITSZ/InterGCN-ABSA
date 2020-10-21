@@ -34,5 +34,7 @@ python generate_position_con_graph.py
 
 ## Training
 * Train with command, optional arguments could be found in [train.py](/train.py)
+
 Run: ```./run_intergcn.sh```
+
 Run: ```./run_afgcn.sh```
